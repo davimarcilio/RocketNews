@@ -1,5 +1,6 @@
 <h1>RocketNews</h1>
 <h2>Página para captura de e-mails.</h2>
+<p>Neste projeto foi utilizado React com hooks e ordenação de código com componentes.</p>
 <hr>
 <p>🎨 Design feito pela <a
         href="https://www.figma.com/file/mB2hjRd8WclYj0DHImhkws/DD-%2F-RocketNews-(Copy)?node-id=3%3A2&t=4s91lPqi96hDnKO9-0">RocketSeat
@@ -23,4 +24,4 @@
 
 <hr>
 <h2>Teste o Website e envie seu e-mail!</h2>
-<p>Teste o Website <a href="https://davimarcilio.github.io/rocketnews/">aqui.</a></p>
+<p>Teste o Website <a href="https://davimarcilio.github.io/RocketNews/">aqui.</a></p>
