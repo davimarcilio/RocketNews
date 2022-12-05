@@ -2,3 +2,8 @@ body {
   background-color: #121214;
   overflow: hidden;
 }
+
+.hiddenForm {
+  position: absolute;
+  left: -5000px;
+}
