@@ -8,7 +8,7 @@ import Form from './components/Form';
 export default function App() {
   return (
     <main>
-      <div className='bg-black absolute h-full pl-7 w-1/2 max-md:w-full z-10' >
+      <div className='bg-black absolute h-full pl-7 w-1/2 max-md:pr-7 max-md:w-full z-10' >
         <Header />
         <main className='flex flex-col gap-2'>
           <h1 className='text-title-color font-WorkSans font-bold text-2xl mt-24'>atualize ideias e informações em 5 minutos.</h1>
