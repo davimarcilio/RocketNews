@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/rocketnews/static/css/main.c01ad75e.css",
-    "main.js": "/rocketnews/static/js/main.10186f83.js",
-    "static/js/787.80f72c36.chunk.js": "/rocketnews/static/js/787.80f72c36.chunk.js",
-    "static/media/read_news.jpg": "/rocketnews/static/media/read_news.8e47749fc6f5ecc27140.jpg",
-    "static/media/logo.svg": "/rocketnews/static/media/logo.3a639ab015c22063b0a8595cc3bf82a4.svg",
-    "index.html": "/rocketnews/index.html",
-    "static/media/arrow-right.svg": "/rocketnews/static/media/arrow-right.6a65082443bbc64a42a80e72df3c3d67.svg",
-    "static/media/send.svg": "/rocketnews/static/media/send.1b1203783e8d41cbe6c41c0f3c8787a2.svg",
-    "main.c01ad75e.css.map": "/rocketnews/static/css/main.c01ad75e.css.map",
-    "main.10186f83.js.map": "/rocketnews/static/js/main.10186f83.js.map",
-    "787.80f72c36.chunk.js.map": "/rocketnews/static/js/787.80f72c36.chunk.js.map"
+    "main.css": "/RocketNews/static/css/main.c01ad75e.css",
+    "main.js": "/RocketNews/static/js/main.032d14cd.js",
+    "static/js/787.80f72c36.chunk.js": "/RocketNews/static/js/787.80f72c36.chunk.js",
+    "static/media/read_news.jpg": "/RocketNews/static/media/read_news.8e47749fc6f5ecc27140.jpg",
+    "static/media/logo.svg": "/RocketNews/static/media/logo.3a639ab015c22063b0a8595cc3bf82a4.svg",
+    "index.html": "/RocketNews/index.html",
+    "static/media/arrow-right.svg": "/RocketNews/static/media/arrow-right.6a65082443bbc64a42a80e72df3c3d67.svg",
+    "static/media/send.svg": "/RocketNews/static/media/send.1b1203783e8d41cbe6c41c0f3c8787a2.svg",
+    "main.c01ad75e.css.map": "/RocketNews/static/css/main.c01ad75e.css.map",
+    "main.032d14cd.js.map": "/RocketNews/static/js/main.032d14cd.js.map",
+    "787.80f72c36.chunk.js.map": "/RocketNews/static/js/787.80f72c36.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c01ad75e.css",
-    "static/js/main.10186f83.js"
+    "static/js/main.032d14cd.js"
   ]
 }
